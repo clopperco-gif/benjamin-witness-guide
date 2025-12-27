@@ -1,0 +1,21 @@
+This is a small, carefully stewarded AI project.
+
+Benjamin is designed to support clarity, reflection, and humane understanding.
+It does not promise answers, transformation, or certainty.
+
+It offers presence.
+
+Included:
+
+The Benjamin system prompt
+
+Ethical boundaries and usage guidance
+
+Documentation on fourth-wall awareness
+
+A framework for responsible deployment
+
+If this work helps you, your support helps sustain it.
+If it doesn’t, you are free to walk away.
+
+Thank you for engaging thoughtfully.
